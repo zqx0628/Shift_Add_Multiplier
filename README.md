@@ -1,2 +1,2 @@
 # Shift_Add_Multiplier
-M×N shift and add multiplier using VHDL
+M×N shift and add multiplier using VHDL.
